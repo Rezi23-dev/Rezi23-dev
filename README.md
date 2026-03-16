@@ -4,10 +4,6 @@
 <h1 align="center">Hi 👋, I'm Rezi</h1>
 
 
-  
-
-<img src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif" width="400" height="300"/>
-
 
 <img src="https://camo.githubusercontent.com/7987751f40087c57daa3612cc1ba1802c2e3ab3cfbe4cd3035cb54b36236b6f0/68747470733a2f2f6c6f6769636d6f6a6f2e636f6d2f6173736574732f646973742f6e65775f70616765732f696d616765732f6a732d6769662e676966" width="100%" height="600"/>
 
