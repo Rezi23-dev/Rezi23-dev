@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezibarabadze&label=Profile%20views&color=0e75b6&style=flat" alt="rezibarabadze" /> </p>
 
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rezibarabadze&label=Profile%20views&color=0e75b6&style=flat](https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif" alt="rezibarabadze" /> </p>
+<img src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif"/>
 
 
 
